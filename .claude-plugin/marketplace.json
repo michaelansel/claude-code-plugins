@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "michaelansel",
+  "description": "Claude Code plugins by Michael Ansel",
+  "owner": {
+    "name": "Michael Ansel"
+  },
+  "plugins": [
+    {
+      "name": "c3po",
+      "description": "Multi-agent coordination for Claude Code",
+      "version": "0.6.0",
+      "source": "./plugins/c3po",
+      "category": "productivity",
+      "homepage": "https://github.com/michaelansel/c3po"
+    },
+    {
+      "name": "notify-pushover",
+      "description": "Pushover notifications when Claude needs attention (with 30s delay to avoid unnecessary alerts)",
+      "version": "1.0.0",
+      "source": "./plugins/notify-pushover",
+      "category": "productivity",
+      "homepage": "https://github.com/michaelansel/claude-code-pushover"
+    }
+  ]
+}
