@@ -8,23 +8,19 @@
   "plugins": [
     {
       "name": "c3po",
-      "description": "Multi-agent coordination for Claude Code",
       "source": {
         "source": "github",
         "repo": "michaelansel/c3po"
       },
-      "category": "productivity",
-      "homepage": "https://github.com/michaelansel/c3po"
+      "category": "productivity"
     },
     {
       "name": "notify-pushover",
-      "description": "Pushover notifications when Claude needs attention (with 30s delay to avoid unnecessary alerts)",
       "source": {
         "source": "github",
         "repo": "michaelansel/claude-code-pushover"
       },
-      "category": "productivity",
-      "homepage": "https://github.com/michaelansel/claude-code-pushover"
+      "category": "productivity"
     }
   ]
 }
