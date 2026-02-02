@@ -9,7 +9,6 @@
     {
       "name": "c3po",
       "description": "Multi-agent coordination for Claude Code",
-      "version": "0.6.0",
       "source": {
         "source": "github",
         "repo": "michaelansel/c3po"
@@ -20,7 +19,6 @@
     {
       "name": "notify-pushover",
       "description": "Pushover notifications when Claude needs attention (with 30s delay to avoid unnecessary alerts)",
-      "version": "1.1.0",
       "source": {
         "source": "github",
         "repo": "michaelansel/claude-code-pushover"
