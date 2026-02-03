@@ -9,16 +9,16 @@
     {
       "name": "c3po",
       "source": {
-        "source": "github",
-        "repo": "michaelansel/c3po"
+        "source": "url",
+        "url": "https://github.com/michaelansel/c3po.git"
       },
       "category": "productivity"
     },
     {
       "name": "notify-pushover",
       "source": {
-        "source": "github",
-        "repo": "michaelansel/claude-code-pushover"
+        "source": "url",
+        "url": "https://github.com/michaelansel/claude-code-pushover.git"
       },
       "category": "productivity"
     }
