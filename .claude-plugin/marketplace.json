@@ -21,6 +21,14 @@
         "url": "https://github.com/michaelansel/claude-code-pushover.git"
       },
       "category": "productivity"
+    },
+    {
+      "name": "thought-graph",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/michaelansel/claude-code-thought-graph.git"
+      },
+      "category": "productivity"
     }
   ]
 }

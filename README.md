@@ -24,3 +24,9 @@ Pushover notifications when Claude needs attention. Uses a 30-second delay with 
 Requires: `jq`, `curl`, and a [Pushover](https://pushover.net/) account.
 
 Source: [michaelansel/claude-code-pushover](https://github.com/michaelansel/claude-code-pushover)
+
+### thought-graph
+
+Graph-based thought tracker for Claude Code. Capture, refine, and execute ideas using a lightweight JSONL graph. Includes a ready queue injected at session start, auto-commit on stop, and skills for self-improvement and learning.
+
+Source: [michaelansel/claude-code-thought-graph](https://github.com/michaelansel/claude-code-thought-graph)
